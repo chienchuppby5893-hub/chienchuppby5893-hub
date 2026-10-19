@@ -24,6 +24,7 @@
 | 项目 | 一句话介绍 | 技术点 |
 |---|---|---|
 | [stm32-smoke-alarm](https://github.com/chienchuppby5893-hub/stm32-smoke-alarm) | 烟雾 + 温湿度监测报警系统，OLED 实时显示，超标蜂鸣器 + LED 报警 | STM32F103 · DHT11 · MQ-2 · ADC · I2C · 阈值回差 |
+| [stm32-oled-dashboard](https://github.com/chienchuppby5893-hub/stm32-oled-dashboard) | 0.96" OLED 多功能仪表：滑动菜单、时钟日历、秒表、手电筒、MPU6050 姿态解算（三次迭代 v1.1 → v1.3） | STM32F103 · MPU6050 · 软件 I2C · 互补滤波 · 状态机菜单 |
 
 ---
 
